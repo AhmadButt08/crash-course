@@ -5,3 +5,7 @@ function newfeature(){
     console.log("new featurea added")
     console.log("Again featurea added")
 }
+function newfeatureB(){
+    console.log("new featurea added")
+    console.log("Again featurea addedB")
+}
